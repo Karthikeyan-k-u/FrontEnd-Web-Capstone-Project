@@ -47,7 +47,7 @@ text
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-```bash
+
 git clone https://github.com/your-username/college-bus-tracker.git
 cd college-bus-tracker
 2. Open in browser
@@ -105,21 +105,6 @@ Add PWA support for offline access
 
 Dark mode toggle
 
-📄 License
-This project is intended for educational/demo purposes. You are free to use, modify, and adapt it for your own institution.
-
-🙏 Acknowledgements
-Leaflet for the amazing mapping library
-
-OpenStreetMap for free map tiles
-
-College Transport Department for the inspiration
-
-Made with ❤️ for Prince Dr. K Vasudevan College of Engineering and Technology
-
-text
-
----
 
 ## ✅ Summary
 
